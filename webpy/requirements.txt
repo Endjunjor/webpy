@@ -1,0 +1,5 @@
+flask==3.0.2
+argon2-cffi==23.1.0
+flask-limiter==3.4.0
+flask-wtf==1.2.1
+waitress==2.1.2
